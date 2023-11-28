@@ -1,2 +1,3 @@
 # File-Sharing
-host files
+repo to host files when sharing with other people
+(because Google Drive sucks)
